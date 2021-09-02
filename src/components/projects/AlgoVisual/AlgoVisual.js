@@ -4,7 +4,7 @@ import Canvas from './Canvas'
 const AlgoVisual = () => {
 
     const [launch, setLaunch] = useState('false')
-    const [input, setInput] = useState('100')
+    const [input, setInput] = useState('150')
 
     const styles = {
         container: {
