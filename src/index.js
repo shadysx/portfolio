@@ -1,13 +1,23 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { createBrowserHistory } from 'history';
+import {Router, Route, Switch} from "react-router-dom"
+
+//Components imports
+import Home from "./components/Home"
+import AlgoVisual from './components/projects/AlgoVisual/AlgoVisual';
+
+var hist = createBrowserHistory()
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <Router history={hist}>
+    <Switch>
+      <Route exact path="/" component={Home} />
+      <Route path="/algo-visual" component={AlgoVisual}/>
+    </Switch>
+  </Router>,
   document.getElementById('root')
 );
 
