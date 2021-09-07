@@ -9,6 +9,7 @@ const Home = () => {
             <h5>Visualiseur d'algorithme </h5>
             <p>Un des mes projets préférés, lors de me première année de bachelier nous avons appris quelques algorithmes de tri. J'ai été inspiré quand le prof nous à parlé d'une façon de voir les algorithmes fonctionner je me suis dis que c'etait un beau challenge.</p>
             <h6>Technos utilisées:</h6>
+            <h6>https://github.com/shadysx/portfolio/tree/main/src/components/projects/AlgoVisual</h6>
             <ul>
                 <li>Html/Css</li>
                 <li>Javascript</li>
@@ -24,6 +25,7 @@ const Home = () => {
                 <li>API WhereisISS.at</li>
                 <li>Map OpenSource Leaflet</li>
             </ul>
+            <h6>https://github.com/shadysx/JsFetchApps/tree/master/public_html/issApiFetchMap</h6>
 
             <a target="_blank" href="/csvExtractEnhancedWithChart/index.html"><h1>Global World Temperature</h1></a>
             <h5>Graphique Démontrant le réfauffement climatique</h5>
@@ -35,6 +37,7 @@ const Home = () => {
                 <li>Fichier CSV source : NASA</li>
             </ul>
 
+            <h6>https://github.com/shadysx/JsFetchApps/blob/master/public_html/csvExtractEnhancedWithChart/index.html</h6>
 
             <a href="https://facebook-messenger-clone-8fa1e.web.app/"><h1>App de messagerie en temps réel(database)</h1></a>
             <h5>messagerie en temps réel stockée sur une base de donnée</h5>
@@ -46,6 +49,7 @@ const Home = () => {
                 <li>react</li>
                 <li>firebase</li>
             </ul>
+
 
 
             <a href="https://rktech-282f5.web.app/"><h1>Site pour RKTech</h1></a>
