@@ -49,6 +49,7 @@ const Home = () => {
                 <li>react</li>
                 <li>firebase</li>
             </ul>
+            <h6>Code source perdu</h6>
 
 
 
@@ -59,6 +60,7 @@ const Home = () => {
                 <li>Html/Css</li>
                 <li>Javascript</li>
             </ul>
+            <h6>Code source perdu</h6>
 
 
             <a href="https://moclan.web.app/"><h1>Site pour MauvaisOeil</h1></a>
@@ -69,7 +71,7 @@ const Home = () => {
                 <li>javascript</li>
                 <li>react</li>
             </ul>
-
+            <h6>https://github.com/shadysx/MoClanWeb</h6>
 
         </div>
     )
