@@ -7,6 +7,7 @@ import {Router, Route, Switch} from "react-router-dom"
 
 //Components imports
 import Home from "./components/Home"
+import Projects from './components/Projects';
 import AlgoVisual from './components/projects/AlgoVisual/AlgoVisual';
 
 var hist = createBrowserHistory()
@@ -15,6 +16,7 @@ ReactDOM.render(
   <Router history={hist}>
     <Switch>
       <Route exact path="/" component={Home} />
+      <Route path="/projects" component={Projects}/>
       <Route path="/algo-visual" component={AlgoVisual}/>
     </Switch>
   </Router>,

@@ -1,13 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Glory:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+
+
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* Fonts */
+
+/*Header Links hover animation*/
+a {
+	text-decoration: none;
 }
+
+.linkButton {
+	border-radius: 7px;
+	color: white;
+	background-color: #0F5897;
+	padding: 5px 10px 8px 10px;
+	margin-right: 15px;
+}
+
+.linkButton:hover {
+    animation-name: linkButtonAnimation;
+    animation-duration: 500ms;
+    animation-fill-mode: forwards;
+  }
+
+  @keyframes linkButtonAnimation {
+	0% {
+		background-color: #0F5897;	
+	}
+    100% {
+      	background-color: #4791d0; 
+    }
+  }
