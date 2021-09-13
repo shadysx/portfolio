@@ -104,6 +104,8 @@ const Projects = () => {
                 <ul>
                     <li>Donner la météo en utilisant une commande dans le chat, qui prend comme paramètre la ville et la date. Le bot utilise une API de météo grâce à une fonction que j'ai écrite qui récupère une objet un fonction des demandes de l'utilisateur puis sont traitées et découpées pour arriver au résultat final.</li>
                     <li>Il rentre dans un channel de discussion lorsqu'un utilisateur se connecte et lis un message vocal personnalisé pour accueillir chaque utilisateur.</li>
+                    <li>Il stocke chaque utilisateur dans une base de donnée SQL et compte pour chaque utilisateur son nombre de messages envoyés, et bientot il stockera egalement le nombre de minutes passées en conversation vocale.</li>
+                    <li>Le tout est hébergé sur un serveur linux qui est sur un raspberry pi que j'ai configuré moi même.</li>
                 </ul>
                 <h6>technos utilisées:</h6>
                 <ul>
