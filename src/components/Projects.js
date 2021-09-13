@@ -25,7 +25,7 @@ const Projects = () => {
                     <li>Javascript</li>
                     <li>React</li>
                 </ul>
-                <h6><a href="https://github.com/shadysx/portfolio/tree/main/src/components/projects/AlgoVisual">https://github.com/shadysx/portfolio/tree/main/src/components/projects/AlgoVisual</a></h6>
+                <h6><a href="https://github.com/shadysx/portfolio/tree/main/src/components/projects/AlgoVisual">GitHub</a></h6>
 
                 <a target="_blank" href="/issApiFetchMap/fetchiss.html"><h1>ISS (Click here)</h1></a>
                 <h5>Tracker International Space Station</h5>
@@ -37,7 +37,7 @@ const Projects = () => {
                     <li>API WhereisISS.at</li>
                     <li>Map OpenSource Leaflet</li>
                 </ul>
-                <h6><a href="https://github.com/shadysx/portfolio/tree/main/public/issApiFetchMap">https://github.com/shadysx/portfolio/tree/main/public/issApiFetchMap</a></h6>
+                <h6><a href="https://github.com/shadysx/portfolio/tree/main/public/issApiFetchMap">GitHub</a></h6>
 
                 <a target="_blank" href="/csvExtractEnhancedWithChart/index.html"><h1>Global World Temperature (Click here)</h1></a>
                 <h5>Graphique Démontrant le réfauffement climatique</h5>
@@ -49,7 +49,7 @@ const Projects = () => {
                     <li>Fichier CSV source : NASA</li>
                 </ul>
 
-                <h6><a href="https://github.com/shadysx/portfolio/tree/main/public/csvExtractEnhancedWithChart">https://github.com/shadysx/portfolio/tree/main/public/csvExtractEnhancedWithChart</a></h6>
+                <h6><a href="https://github.com/shadysx/portfolio/tree/main/public/csvExtractEnhancedWithChart">GitHub</a></h6>
 
                 <a href="https://facebook-messenger-clone-8fa1e.web.app/"><h1>App de messagerie en temps réel avec database (Click here)</h1></a>
                 <h5>messagerie en temps réel stockée sur une base de donnée</h5>
@@ -83,7 +83,7 @@ const Projects = () => {
                     <li>javascript</li>
                     <li>react</li>
                 </ul>
-                <h6><a href="https://github.com/shadysx/MoClanWeb">https://github.com/shadysx/MoClanWeb</a></h6>
+                <h6><a href="https://github.com/shadysx/MoClanWeb">GitHub</a></h6>
 
 
                 <a href="https://github.com/shadysx/LighShotGrab"><h1>LightShotGrab (Click here)</h1></a>
@@ -95,7 +95,7 @@ const Projects = () => {
                 <ul>
                     <li>python</li>
                 </ul>
-                <h6><a href="https://github.com/shadysx/LighShotGrab">https://github.com/shadysx/LighShotGrab</a></h6> 
+                <h6><a href="https://github.com/shadysx/LighShotGrab">GitHub</a></h6> 
 
                 <a href="https://github.com/shadysx/DiscordPythonBot/blob/main/main.py"><h1>Bot Discord (Click here)</h1></a>
                 <h5>Un client qui se connecte à un serveur Discord et qui se comporte comme un utilisateur classique.</h5>
@@ -113,7 +113,7 @@ const Projects = () => {
                     <li>discord.py</li>
                     <li>openweather meteo</li>
                 </ul>
-                <h6><a href="https://github.com/shadysx/DiscordPythonBot/blob/main/main.py">https://github.com/shadysx/LighShotGrab</a></h6> 
+                <h6><a href="https://github.com/shadysx/DiscordPythonBot/blob/main/main.py">GitHub</a></h6> 
 
             </div>
         </div>
