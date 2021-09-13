@@ -97,6 +97,22 @@ const Projects = () => {
                 </ul>
                 <h6><a href="https://github.com/shadysx/LighShotGrab">https://github.com/shadysx/LighShotGrab</a></h6> 
 
+                <a href="https://github.com/shadysx/DiscordPythonBot/blob/main/main.py"><h1>Bot Discord (Click here)</h1></a>
+                <h5>Un client qui se connecte à un serveur Discord et qui se comporte comme un utilisateur classique.</h5>
+                <p>Je fais partie d'une petite communauté qui utilise un serveur discord pour communiquer, le fait de programmer un bot qui peut être utile à donc été une bonne source de motivation.</p>
+                <p>Pour le moment il n'est pas encore très polyvalent, il peut :</p>
+                <ul>
+                    <li>Donner la météo en utilisant une commande dans le chat, qui prend comme paramètre la ville et la date. Le bot utilise une API de météo grâce à une fonction que j'ai écrite qui récupère une objet un fonction des demandes de l'utilisateur puis sont traitées et découpées pour arriver au résultat final.</li>
+                    <li>Il rentre dans un channel de discussion lorsqu'un utilisateur se connecte et lis un message vocal personnalisé pour accueillir chaque utilisateur.</li>
+                </ul>
+                <h6>technos utilisées:</h6>
+                <ul>
+                    <li>python</li>
+                    <li>discord.py</li>
+                    <li>openweather meteo</li>
+                </ul>
+                <h6><a href="https://github.com/shadysx/DiscordPythonBot/blob/main/main.py">https://github.com/shadysx/LighShotGrab</a></h6> 
+
             </div>
         </div>
     )
