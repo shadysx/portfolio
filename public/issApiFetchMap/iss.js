@@ -29,6 +29,7 @@
 
             document.getElementById('lat').textContent = latitude;
             document.getElementById('lon').textContent = longitude;
+            console.log('REQUESTS')
         }
 
         setInterval(getISS, 2000)
